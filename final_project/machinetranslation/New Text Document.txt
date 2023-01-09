@@ -1,2 +1,0 @@
-apikey = zTw5px2vitCh41VetjZrF3tdIIKFINrVrkRI9cZT44yi
-url = https://api.au-syd.language-translator.watson.cloud.ibm.com/instances/c61a5a44-c0fd-4b06-8b86-f35dfd281f36
